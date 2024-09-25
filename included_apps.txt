@@ -1,0 +1,5 @@
+Google.Chrome*
+Microsoft.Edge*
+Microsoft.Office*
+Microsoft.OneDrive*
+Microsoft.Teams*
