@@ -1,9 +1,12 @@
 Google.Chrome*
+Mozilla.Firefox*
 Microsoft.Edge*
 Microsoft.Office*
 Microsoft.OneDrive*
 Microsoft.Teams*
 Oracle.JavaRuntimeEnvironment*
 VideoLAN.VLC*
-Mozilla.Firefox*
 7zip.7zip*
+Zoom.Zoom*
+Adobe.Acrobat*
+Foxit.FoxitReader*
