@@ -3,3 +3,7 @@ Microsoft.Edge*
 Microsoft.Office*
 Microsoft.OneDrive*
 Microsoft.Teams*
+Oracle.JavaRuntimeEnvironment*
+VideoLAN.VLC*
+Mozilla.Firefox*
+7zip.7zip*
