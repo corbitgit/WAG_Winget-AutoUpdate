@@ -1,0 +1,8 @@
+<site-list version="1">
+   <site url="http://mijnorbis/mijnorbis/">
+      <compat-mode>IE11</compat-mode>
+   </site>
+   <site url="https://legacy.example.com">
+      <compat-mode>IE11</compat-mode>
+   </site>
+</site-list>
