@@ -1,6 +1,7 @@
 7zip.7zip*
 Adobe.Acrobat*
 BelgianGovernment.Belgium-eIDmiddleware*
+BelgianGovernment.eIDViewer*
 Canva.Canva*
 Foxit.FoxitReader*
 Google.Chrome*
@@ -17,6 +18,7 @@ PuTTY.PuTTY*
 Spotify.Spotify*
 TeamViewer.TeamViewer*
 VideoLAN.VLC*
+WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
 Zoom.Zoom*
 Zoom.ZoomRooms*
