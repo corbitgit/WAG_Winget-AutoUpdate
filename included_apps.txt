@@ -1,8 +1,8 @@
-7zip.7zip*
 Adobe.Acrobat*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
 Canva.Canva*
+FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Google.Chrome*
 Jabra.Direct*
@@ -12,11 +12,15 @@ Microsoft.Office*
 Microsoft.OneDrive*
 Microsoft.Teams*
 Mozilla.Firefox*
+Mozilla.Thunderbird*
 Notepad++.Notepad++*
-Oracle.JavaRuntimeEnvironment*
+ojdkbuild*
+Oracle*
+Oracle*
 PuTTY.PuTTY*
 Spotify.Spotify*
 TeamViewer.TeamViewer*
+Ubuntu*
 VideoLAN.VLC*
 WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
