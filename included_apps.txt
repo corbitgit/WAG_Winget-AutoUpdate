@@ -8,14 +8,12 @@ Google.Chrome*
 Jabra.Direct*
 JGraph.Draw*
 Microsoft.Edge*
-Microsoft.Office*
 Microsoft.OneDrive*
 Microsoft.Teams*
 Mozilla.Firefox*
 Mozilla.Thunderbird*
 Notepad++.Notepad++*
 ojdkbuild*
-Oracle*
 Oracle*
 PuTTY.PuTTY*
 Spotify.Spotify*
