@@ -1,6 +1,7 @@
 Adobe.Acrobat*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
+Bitwarden.Bitwarden*
 Canva.Canva*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
@@ -24,3 +25,6 @@ WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
 Zoom.Zoom*
 Zoom.ZoomRooms*
+7zip.7zip*
+9NZVDKPMR9RD*
+9P1J8S7CCWWT*
