@@ -49,6 +49,7 @@ JetBrains.Rider*
 JetBrains.ReSharper*
 JetBrains.dotUltimate*
 Logitech.GHUB*
+Logitech.OptionsPlus*
 MartiCliment.UniGetUI*
 Microsoft.DotNet.AspNetCore.6*
 Microsoft.DotNet.AspNetCore.7*
@@ -94,6 +95,7 @@ Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
+RevoUninstaller.RevoUninstaller
 Spotify.Spotify*
 Stremio.Stremio*
 SublimeHQ.SublimeMerge*
