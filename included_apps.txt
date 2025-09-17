@@ -42,6 +42,7 @@ FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
 Google.Chrome*
+Google.GoogleDrive*
 Greenshot.Greenshot*
 Jabra.Direct*
 JGraph.Draw*
