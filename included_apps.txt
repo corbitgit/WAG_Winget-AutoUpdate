@@ -34,6 +34,7 @@ BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
 Bitwarden.Bitwarden*
 Canva.Canva*
+CartamundiDigital.Fundels
 Cisco.CiscoWebexMeetings*
 Cisco.Webex*
 Dell.CommandUpdate*
