@@ -39,6 +39,7 @@ Cisco.CiscoWebexMeetings*
 Cisco.Webex*
 Dell.CommandUpdate*
 Dropbox.Dropbox*
+DYMO.DYMOConnect*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
