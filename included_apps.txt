@@ -30,11 +30,12 @@ Adobe.Acrobat.Reader.64-bit*
 Adobe.AdobeConnect*
 Adobe.CreativeCloud*
 Autodesk.AutodeskAccess*
+Autodesk.DesktopApp*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
 Bitwarden.Bitwarden*
 Canva.Canva*
-CartamundiDigital.Fundels
+CartamundiDigital.Fundels*
 Cisco.CiscoWebexMeetings*
 Cisco.Webex*
 Dell.CommandUpdate*
@@ -43,6 +44,7 @@ DYMO.DYMOConnect*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
 Foxit.PhantomPDF*
+GitHub.GitHubDesktop*
 Google.Chrome*
 Google.GoogleDrive*
 Greenshot.Greenshot*
@@ -86,6 +88,7 @@ Microsoft.VisualStudioCode*
 Mozilla.Firefox*
 Mozilla.Thunderbird*
 Notepad++.Notepad++*
+Notion.Notion*
 Oracle.JDK.17*
 Oracle.JDK.18*
 Oracle.JDK.19*
@@ -98,7 +101,8 @@ Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
-RevoUninstaller.RevoUninstaller
+RevoUninstaller.RevoUninstaller*
+RustDesk.RustDesk*
 Spotify.Spotify*
 Stremio.Stremio*
 SublimeHQ.SublimeMerge*
